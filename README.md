@@ -111,12 +111,12 @@ Publication/HydroTechGrow_IEEE_2025/
 
 # 🏆 Achievements
 
--🥇 IEEE Conference Paper Accepted & Presented  
--🏅 Presented at ICCCT’25 International Conference  
--🌱 Smart Agriculture based sustainable farming solution  
--🚀 Successfully implemented IoT-integrated hydroponics model 
--🥇 Winner - SAIRAM SDG SOLVEATHON 3.0 
--🥈 Runner - SAIRAM SDG INNOVATHON 3.0 
+- 🥇 IEEE Conference Paper Accepted & Presented  
+- 🏅 Presented at ICCCT’25 International Conference  
+- 🌱 Smart Agriculture based sustainable farming solution  
+- 🚀 Successfully implemented IoT-integrated hydroponics model 
+- 🥇 Winner - SAIRAM SDG SOLVEATHON 3.0 
+- 🥈 Runner - SAIRAM SDG INNOVATHON 3.0 
 
 ---
 
